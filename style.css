@@ -1,0 +1,33 @@
+*{
+    scroll-behavior: smooth;
+}
+.single{
+    margin-top: 75px;
+}
+.carousel-inner{
+    width: 1400px;
+    height: 400px;
+}
+
+img{
+    margin-bottom: -150px;
+    width: 1400px;
+    height: 700px;
+}
+
+.hot
+{
+    margin: 5px;
+}
+
+div.akash{
+    position: relative;
+    display: flex;
+    flex-direction: row;
+}
+
+.akash iframe{
+    margin: 5px;
+    border-radius: 5px ;
+border: none;
+}
